@@ -1,17 +1,10 @@
----
-title: Prova prática - Dev Senior.docx
-layout: post
-author: douglas.thiago.10
-source-id: 1Z9BKfyo3hBFVxXdfLiWGBa4gQIkfYA5liXbZx60Rxqc
-published: true
----
 # **Processo Seletivo Desenvolvedor de Sistemas Sênior da Sigma/TJMT**
 
-# **Bem-vindo ao processo seletivo para desenvolvedor de sistemas - sênior da Sigma/TJMT!**
+### **Bem-vindo ao processo seletivo para desenvolvedor de sistemas - sênior da Sigma/TJMT!**
 
 ## **O desafio**
 
-# **Crie um sistema para o gerenciamento de uma loja de livros. Deverá ser feito o Back e Front-End.**
+### **Crie um sistema para o gerenciamento de uma loja de livros. Deverá ser feito o Back e Front-End.**
 
 ## **Requisitos**
 
@@ -113,7 +106,7 @@ published: true
 
 * **Faça um fork do projeto: **
 
-    * https://github.com/kutzr/processo-seletivo-arquiteto-back-sigma-jul-2018
+    * https://github.com/kutzr/processo-seletivo-dev-senior-jul-2018
 
 * **Ao finalizar a sua aplicação, crie um pull request no projeto de origem.**
 
