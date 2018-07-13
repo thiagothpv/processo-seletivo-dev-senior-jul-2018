@@ -76,8 +76,6 @@
 
 * Os dados devem ser salvos em banco;
 
-* Deve-se utilizar o Swagger;
-
 * A sua aplicação deve conter um arquivo README explicando o funcionamento e a solução adotada na sua implementação do desafio.
 
 ### **Requisitos não funcionais**
@@ -104,7 +102,7 @@
 
 ## **Procedimento**
 
-* **Faça um fork do projeto: **
+* Faça um fork do projeto: *
 
     * https://github.com/kutzr/processo-seletivo-dev-senior-jul-2018
 
