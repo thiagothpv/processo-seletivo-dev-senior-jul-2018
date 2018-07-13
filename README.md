@@ -1,10 +1,10 @@
 # **Processo Seletivo Desenvolvedor de Sistemas Sênior da Sigma/TJMT**
 
-### **Bem-vindo ao processo seletivo para desenvolvedor de sistemas - sênior da Sigma/TJMT!**
+### Bem-vindo ao processo seletivo para desenvolvedor de sistemas - sênior da Sigma/TJMT!
 
 ## **O desafio**
 
-### **Crie um sistema para o gerenciamento de uma loja de livros. Deverá ser feito o Back e Front-End.**
+### Crie um sistema para o gerenciamento de uma loja de livros. Deverá ser feito o Back e Front-End.
 
 ## **Requisitos**
 
@@ -102,7 +102,7 @@
 
 ## **Procedimento**
 
-* Faça um fork do projeto: *
+* **Faça um fork do projeto:**
 
     * https://github.com/kutzr/processo-seletivo-dev-senior-jul-2018
 
